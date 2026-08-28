@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "name": "Kawah Ijen (Ijen Crater)",
-    "description": "Set of volcanoes featuring the namesake volcano known for its vibrant blue flames of sulfuric gas.",
+    "name": "Kawah Ijen",
+    "description": "Kompleks gunung berapi dengan kawah yang terkenal karena fenomena api biru (blue fire) dari gas belerang yang menyala terang.",
     "category": "place",
     "tags": [
       "mountain",
@@ -17,7 +17,7 @@
   {
     "id": "2",
     "name": "Taman Nasional Baluran",
-    "description": "Protected landscape known as Indonesia's 'little Africa' with mountains, savanna & rich wildlife.",
+    "description": "Kawasan pelestarian alam yang dijuluki 'Afrika van Java', menampilkan padang savana luas, pegunungan, dan satwa liar yang kaya.",
     "category": "place",
     "tags": [
       "wildlife",
@@ -31,8 +31,8 @@
   },
   {
     "id": "3",
-    "name": "Pantai Pulau Merah (Red Island Beach)",
-    "description": "Popular white sand beach known for its challenging waves, strong winds & spectacular sunsets.",
+    "name": "Pantai Pulau Merah",
+    "description": "Pantai berpasir putih yang populer dengan ombak selancar, angin sejuk, dan pemandangan matahari terbenam yang spektakuler.",
     "category": "place",
     "tags": [
       "beach",
@@ -45,8 +45,8 @@
   },
   {
     "id": "4",
-    "name": "Gandrung Sewu at Pantai Boom Marina",
-    "description": "A spectacular annual cultural festival featuring thousands of Gandrung dancers on the beach marina.",
+    "name": "Gandrung Sewu di Pantai Boom Marina",
+    "description": "Festival budaya tahunan yang spektakuler, menampilkan ribuan penari Gandrung di kawasan marina tepi pantai.",
     "category": "event",
     "tags": [
       "culture",
@@ -61,7 +61,7 @@
   {
     "id": "5",
     "name": "Banyuwangi Ethno Carnival",
-    "description": "A vibrant annual carnival showcasing local culture, traditional arts, and extravagant costumes.",
+    "description": "Karnaval budaya tahunan yang semarak, memamerkan kekayaan budaya lokal, seni tradisional, dan kostum-kostum megah.",
     "category": "event",
     "tags": [
       "carnival",
@@ -75,7 +75,7 @@
   {
     "id": "6",
     "name": "Sego Tempong Mbok Wah",
-    "description": "Traditional spicy rice dish served with boiled vegetables, fried tofu, tempeh, and a famously punchy sambal.",
+    "description": "Hidangan nasi pedas tradisional yang disajikan dengan sayuran rebus, tahu goreng, tempe, dan sambal khas yang sangat pedas.",
     "category": "food",
     "tags": [
       "spicy",
@@ -90,7 +90,7 @@
   {
     "id": "7",
     "name": "Warung Rujak Soto Mbok Mbret",
-    "description": "A unique and delicious blend of Rujak (fruit/vegetable salad with peanut sauce) and Soto (traditional beef soup).",
+    "description": "Perpaduan unik dan lezat antara Rujak (salad sayur dengan bumbu kacang) dan Soto (sup daging sapi tradisional khas Banyuwangi).",
     "category": "food",
     "tags": [
       "unique",
@@ -105,7 +105,7 @@
   {
     "id": "8",
     "name": "Desa Adat Osing Kemiren",
-    "description": "Experience the unique culture, architecture, and coffee of the indigenous Osing people of Banyuwangi.",
+    "description": "Desa wisata untuk merasakan langsung budaya unik, arsitektur tradisional, dan kopi khas dari masyarakat adat Osing asli Banyuwangi.",
     "category": "culture",
     "tags": [
       "village",
@@ -119,7 +119,7 @@
   {
     "id": "9",
     "name": "Osing Deles Cafe & Resto",
-    "description": "A viral and highly popular cafe and restaurant serving local Banyuwangi dishes in a modern, aesthetic setting.",
+    "description": "Kafe dan restoran viral yang sangat populer, menyajikan hidangan khas Banyuwangi dalam suasana modern dan estetis untuk tempat berkumpul.",
     "category": "cafe",
     "tags": [
       "viral",
@@ -133,7 +133,7 @@
   },
   {
     "id": "10",
-    "name": "De Djawatan Forest",
+    "name": "Hutan De Djawatan",
     "description": "Kawasan hutan trembesi yang megah, menawarkan jalur pejalan kaki yang teduh dan suasana magis mirip hutan di film fantasi.",
     "category": "place",
     "tags": [
@@ -148,8 +148,8 @@
   },
   {
     "id": "11",
-    "name": "Pantai Teluk Hijau (Green Bay)",
-    "description": "Teluk taman nasional dengan pantai perawan berpasir putih yang disapu oleh air laut berwarna hijau jernih, dapat diakses dengan perahu atau berjalan kaki melintasi hutan.",
+    "name": "Pantai Teluk Hijau",
+    "description": "Teluk taman nasional dengan pantai perawan berpasir putih yang disapu oleh air laut berwarna hijau jernih, dapat diakses dengan perahu atau melintasi hutan.",
     "category": "place",
     "tags": [
       "pantai",
@@ -178,7 +178,7 @@
   {
     "id": "13",
     "name": "Taman Nasional Alas Purwo",
-    "description": "Rumah bagi ekosistem yang beragam, semenanjung hijau ini terkenal dengan hutan purba, padang savana, penangkaran satwa liar, hingga spot selancar ombak kelas dunia.",
+    "description": "Rumah bagi ekosistem yang beragam, semenanjung hijau ini terkenal dengan hutan purba, padang savana, penangkaran satwa liar, hingga spot selancar kelas dunia.",
     "category": "nature",
     "tags": [
       "taman nasional",
@@ -223,7 +223,7 @@
   {
     "id": "16",
     "name": "Kawah Wurung",
-    "description": "Kawasan kaldera vulkanik mati yang kini menjadi perbukitan padang rumput hijau bergelombang, sangat populer untuk aktivitas bersepeda, motor trail, dan menikmati bunga liar di perbatasan Ijen.",
+    "description": "Kawasan kaldera vulkanik mati yang kini menjadi perbukitan padang rumput hijau bergelombang, populer untuk aktivitas bersepeda dan motor trail.",
     "category": "place",
     "tags": [
       "kawah",
@@ -234,5 +234,170 @@
     "lat": -8.06,
     "lng": 114.16,
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.06,114.16&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "17",
+    "name": "Dialoog Banyuwangi",
+    "description": "Sebuah resor tepi pantai bintang 4 modern di Klatak yang menawarkan kamar-kamar premium dengan pemandangan laut dan infinity pool yang indah.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "beachfront",
+      "resort",
+      "luxury"
+    ],
+    "lat": -8.18,
+    "lng": 114.39,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.18,114.39&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "18",
+    "name": "Jiwa Jawa Resort Ijen",
+    "description": "Eco-resort yang indah di lereng Ijen, dibangun pada tahun 2015, yang memberikan nuansa alam tenang dengan sentuhan estetika lokal.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "mountain",
+      "resort",
+      "nature"
+    ],
+    "lat": -8.18,
+    "lng": 114.26,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.18,114.26&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "19",
+    "name": "Kokoon Hotel Banyuwangi",
+    "description": "Hotel elegan dan modern di daerah Kabat yang dilengkapi dengan fasilitas mewah dan menawarkan pemandangan kota dari ketinggian.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "city",
+      "luxury",
+      "modern"
+    ],
+    "lat": -8.26,
+    "lng": 114.34,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.26,114.34&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "20",
+    "name": "Ketapang Indah Hotel",
+    "description": "Resor legendaris dan luas di Banyuwangi yang terkenal dengan taman hijaunya yang rimbun, kolam renang besar, dan pemandangan pesisir pantai.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "family",
+      "beachfront",
+      "resort"
+    ],
+    "lat": -8.16,
+    "lng": 114.39,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.16,114.39&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "21",
+    "name": "Bobocabin Ijen, Banyuwangi",
+    "description": "Akomodasi glamping berkonsep kabin pintar (smart cabin) yang menawarkan pengalaman menginap nyaman di tengah alam pegunungan Ijen yang sejuk.",
+    "category": "hotel",
+    "tags": [
+      "glamping",
+      "cabin",
+      "mountain",
+      "nature"
+    ],
+    "lat": -8.08,
+    "lng": 114.22,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.08,114.22&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "22",
+    "name": "Villa So Long Banyuwangi",
+    "description": "Resor vila dengan arsitektur rumah adat Osing yang menawarkan pemandangan langsung ke Selat Bali serta hamparan taman kelapa di tepi pantai.",
+    "category": "hotel",
+    "tags": [
+      "villa",
+      "culture",
+      "beachfront",
+      "resort"
+    ],
+    "lat": -8.18,
+    "lng": 114.38,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.18,114.38&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "23",
+    "name": "New Surya Hotel Jajag",
+    "description": "Hotel berbintang di kawasan Jajag yang menyediakan fasilitas lengkap untuk keperluan bisnis maupun rekreasi keluarga di bagian selatan Banyuwangi.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "business",
+      "family",
+      "jajag"
+    ],
+    "lat": -8.43,
+    "lng": 114.18,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.43,114.18&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "24",
+    "name": "ASTON Banyuwangi Hotel & Conference Center",
+    "description": "Hotel berdesain modern di pusat kota Banyuwangi dengan fasilitas ruang pertemuan dan ballroom yang luas, cocok untuk pelancong bisnis dan keluarga.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "city",
+      "business",
+      "modern"
+    ],
+    "lat": -8.22,
+    "lng": 114.35,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.22,114.35&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "25",
+    "name": "Luminor Hotel Banyuwangi",
+    "description": "Hotel bintang 3 plus di pusat kota yang menawarkan desain estetik dan modern, serta dekat dengan berbagai objek wisata kota dan fasilitas transportasi.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "city",
+      "aesthetic",
+      "modern"
+    ],
+    "lat": -8.18,
+    "lng": 114.38,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.18,114.38&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "26",
+    "name": "Hotel Santika Banyuwangi",
+    "description": "Hotel dengan sentuhan keramahtamahan lokal khas Indonesia, terletak strategis dan menawarkan fasilitas kolam renang yang luas dan sarapan yang lezat.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "city",
+      "family",
+      "comfort"
+    ],
+    "lat": -8.24,
+    "lng": 114.36,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.24,114.36&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "27",
+    "name": "eL Hotel Royale Banyuwangi",
+    "description": "Hotel bintang 4 bernuansa tradisional Banyuwangi yang berpadu dengan kemewahan modern, terletak strategis menuju pusat kota maupun bandara.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "luxury",
+      "traditional",
+      "resort"
+    ],
+    "lat": -8.26,
+    "lng": 114.34,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.26,114.34&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   }
 ]
