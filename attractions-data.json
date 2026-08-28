@@ -2,93 +2,237 @@
   {
     "id": "1",
     "name": "Kawah Ijen (Ijen Crater)",
-    "description": "Famous for its blue fire and acidic crater lake.",
+    "description": "Set of volcanoes featuring the namesake volcano known for its vibrant blue flames of sulfuric gas.",
     "category": "place",
-    "tags": ["mountain", "hiking", "nature"],
+    "tags": [
+      "mountain",
+      "hiking",
+      "nature",
+      "crater"
+    ],
     "lat": -8.0584,
     "lng": 114.242,
-    "imageUrl": "https://images.unsplash.com/photo-1571704257128-4dcbdbeaaeb8?w=800&q=80",
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.0584,114.242&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "2",
     "name": "Taman Nasional Baluran",
-    "description": "Often called the Africa of Java, known for its extensive savanna and wildlife.",
+    "description": "Protected landscape known as Indonesia's 'little Africa' with mountains, savanna & rich wildlife.",
     "category": "place",
-    "tags": ["wildlife", "savanna", "nature"],
+    "tags": [
+      "wildlife",
+      "savanna",
+      "nature",
+      "park"
+    ],
     "lat": -7.8385,
     "lng": 114.3888,
-    "imageUrl": "https://images.unsplash.com/photo-1626084059049-7e9b0b4b2488?w=800&q=80"
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-7.8385,114.3888&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "3",
     "name": "Pantai Pulau Merah (Red Island Beach)",
-    "description": "Beautiful beach with a distinctive red hill and great surf breaks.",
+    "description": "Popular white sand beach known for its challenging waves, strong winds & spectacular sunsets.",
     "category": "place",
-    "tags": ["beach", "surfing", "sunset"],
+    "tags": [
+      "beach",
+      "surfing",
+      "sunset"
+    ],
     "lat": -8.6025,
     "lng": 114.0272,
-    "imageUrl": "https://images.unsplash.com/photo-1616172605898-7505ed341490?w=800&q=80"
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.6025,114.0272&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "4",
-    "name": "Gandrung Sewu",
-    "description": "A spectacular annual cultural festival featuring thousands of Gandrung dancers on the beach.",
+    "name": "Gandrung Sewu at Pantai Boom Marina",
+    "description": "A spectacular annual cultural festival featuring thousands of Gandrung dancers on the beach marina.",
     "category": "event",
-    "tags": ["culture", "dance", "festival"],
-    "lat": -8.2185,
-    "lng": 114.3756,
-    "imageUrl": "https://images.unsplash.com/photo-1558284562-f67fcebc2fce?w=800&q=80"
+    "tags": [
+      "culture",
+      "dance",
+      "festival",
+      "beach"
+    ],
+    "lat": -8.2045,
+    "lng": 114.3881,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2045,114.3881&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "5",
     "name": "Banyuwangi Ethno Carnival",
     "description": "A vibrant annual carnival showcasing local culture, traditional arts, and extravagant costumes.",
     "category": "event",
-    "tags": ["carnival", "culture", "art"],
+    "tags": [
+      "carnival",
+      "culture",
+      "art"
+    ],
     "lat": -8.2192,
     "lng": 114.3692,
-    "imageUrl": "https://images.unsplash.com/photo-1533558701584-cb9a36a28292?w=800&q=80"
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2192,114.3692&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "6",
-    "name": "Sego Tempong",
-    "description": "Traditional spicy rice dish served with boiled vegetables, fried tofu, tempeh, and a very spicy sambal.",
+    "name": "Sego Tempong Mbok Wah",
+    "description": "Traditional spicy rice dish served with boiled vegetables, fried tofu, tempeh, and a famously punchy sambal.",
     "category": "food",
-    "tags": ["spicy", "traditional", "culinary"],
-    "lat": -8.215,
-    "lng": 114.365,
-    "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&q=80",
-    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.215,114.365&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
+    "tags": [
+      "spicy",
+      "traditional",
+      "culinary",
+      "restaurant"
+    ],
+    "lat": -8.2255,
+    "lng": 114.3551,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2255,114.3551&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "7",
-    "name": "Rujak Soto",
+    "name": "Warung Rujak Soto Mbok Mbret",
     "description": "A unique and delicious blend of Rujak (fruit/vegetable salad with peanut sauce) and Soto (traditional beef soup).",
     "category": "food",
-    "tags": ["unique", "traditional", "culinary"],
-    "lat": -8.22,
-    "lng": 114.37,
-    "imageUrl": "https://images.unsplash.com/photo-1541529124443-4be440625a7e?w=800&q=80"
+    "tags": [
+      "unique",
+      "traditional",
+      "culinary",
+      "restaurant"
+    ],
+    "lat": -8.4116,
+    "lng": 114.2185,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.4116,114.2185&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "8",
-    "name": "Osing Traditional Village",
+    "name": "Desa Adat Osing Kemiren",
     "description": "Experience the unique culture, architecture, and coffee of the indigenous Osing people of Banyuwangi.",
     "category": "culture",
-    "tags": ["village", "coffee", "heritage"],
-    "lat": -8.232,
-    "lng": 114.316,
-    "imageUrl": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800&q=80"
+    "tags": [
+      "village",
+      "coffee",
+      "heritage"
+    ],
+    "lat": -8.2198,
+    "lng": 114.318,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2198,114.318&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "9",
-    "name": "Alas Purwo National Park",
-    "description": "Dense, mystical monsoon forest known for its biodiversity, sacred caves, and legendary surf breaks.",
+    "name": "Osing Deles Cafe & Resto",
+    "description": "A viral and highly popular cafe and restaurant serving local Banyuwangi dishes in a modern, aesthetic setting.",
+    "category": "cafe",
+    "tags": [
+      "viral",
+      "restaurant",
+      "aesthetic",
+      "hangout"
+    ],
+    "lat": -8.2173,
+    "lng": 114.3642,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2173,114.3642&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "10",
+    "name": "De Djawatan Forest",
+    "description": "Kawasan hutan trembesi yang megah, menawarkan jalur pejalan kaki yang teduh dan suasana magis mirip hutan di film fantasi.",
+    "category": "place",
+    "tags": [
+      "hutan",
+      "fotografi",
+      "alam",
+      "magis"
+    ],
+    "lat": -8.43,
+    "lng": 114.22,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.43,114.22&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "11",
+    "name": "Pantai Teluk Hijau (Green Bay)",
+    "description": "Teluk taman nasional dengan pantai perawan berpasir putih yang disapu oleh air laut berwarna hijau jernih, dapat diakses dengan perahu atau berjalan kaki melintasi hutan.",
+    "category": "place",
+    "tags": [
+      "pantai",
+      "teluk",
+      "alam",
+      "tersembunyi"
+    ],
+    "lat": -8.56,
+    "lng": 113.92,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.56,113.92&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "12",
+    "name": "Green Island Banyuwangi",
+    "description": "Destinasi pulau eksotis di perairan Banyuwangi pesisir selatan yang menawarkan spot snorkeling indah dan panorama laut biru yang memikat hati.",
+    "category": "place",
+    "tags": [
+      "pulau",
+      "snorkeling",
+      "pantai"
+    ],
+    "lat": -8.62,
+    "lng": 113.99,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.62,113.99&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "13",
+    "name": "Taman Nasional Alas Purwo",
+    "description": "Rumah bagi ekosistem yang beragam, semenanjung hijau ini terkenal dengan hutan purba, padang savana, penangkaran satwa liar, hingga spot selancar ombak kelas dunia.",
     "category": "nature",
-    "tags": ["forest", "mystical", "wildlife"],
-    "lat": -8.6667,
-    "lng": 114.4500,
-    "imageUrl": "https://images.unsplash.com/photo-1543880292-49197c36199a?w=800&q=80"
+    "tags": [
+      "taman nasional",
+      "hutan",
+      "satwa liar",
+      "selancar"
+    ],
+    "lat": -8.64,
+    "lng": 114.36,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.64,114.36&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "14",
+    "name": "Padang Savana Sadengan",
+    "description": "Padang rumput alami seluas puluhan hektare di dalam kawasan Alas Purwo yang menjadi habitat bebas bagi banteng liar, rusa, babi hutan, dan burung merak.",
+    "category": "nature",
+    "tags": [
+      "savana",
+      "satwa liar",
+      "alam",
+      "safari"
+    ],
+    "lat": -8.65,
+    "lng": 114.37,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.65,114.37&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "15",
+    "name": "Air Terjun Telunjuk Raung",
+    "description": "Air terjun tersembunyi yang asri dengan air pegunungan murni, berlokasi di lereng Gunung Raung dengan lingkungan pepohonan yang rindang dan hijau.",
+    "category": "nature",
+    "tags": [
+      "air terjun",
+      "pegunungan",
+      "alam",
+      "segar"
+    ],
+    "lat": -8.17,
+    "lng": 114.14,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.17,114.14&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "16",
+    "name": "Kawah Wurung",
+    "description": "Kawasan kaldera vulkanik mati yang kini menjadi perbukitan padang rumput hijau bergelombang, sangat populer untuk aktivitas bersepeda, motor trail, dan menikmati bunga liar di perbatasan Ijen.",
+    "category": "place",
+    "tags": [
+      "kawah",
+      "bukit",
+      "alam",
+      "petualangan"
+    ],
+    "lat": -8.06,
+    "lng": 114.16,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.06,114.16&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   }
 ]
