@@ -399,5 +399,259 @@
     "lat": -8.26,
     "lng": 114.34,
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.26,114.34&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "28",
+    "name": "Any-O Cafe",
+    "description": "Kafe lokal yang menawarkan suasana nyaman untuk berkumpul sambil menikmati sajian kopi dan makanan dengan konsep kekinian.",
+    "category": "cafe",
+    "tags": [
+      "cafe",
+      "hangout",
+      "coffee",
+      "kuliner"
+    ],
+    "lat": -8.216,
+    "lng": 114.3645,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.216,114.3645&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "29",
+    "name": "Kopi Saben",
+    "description": "Kedai kopi dan rumah makan di kawasan Gambiran yang menyajikan aneka menu kopi dan makanan cepat saji dengan suasana santai.",
+    "category": "cafe",
+    "tags": [
+      "cafe",
+      "coffee",
+      "gambiran",
+      "kuliner"
+    ],
+    "lat": -8.3889,
+    "lng": 114.1627,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.3889,114.1627&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "30",
+    "name": "Pantai Plengkung (G-Land)",
+    "description": "Destinasi pantai ikonik di Taman Nasional Alas Purwo yang terkenal secara global karena memiliki salah satu ombak selancar terbaik di dunia.",
+    "category": "nature",
+    "tags": [
+      "beach",
+      "surfing",
+      "alas purwo",
+      "world class"
+    ],
+    "lat": -8.7278,
+    "lng": 114.3592,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.7278,114.3592&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "31",
+    "name": "Pantai Pancur",
+    "description": "Pantai berpasir putih di kawasan Alas Purwo dengan aliran air tawar yang langsung jatuh seperti air terjun kecil ke arah laut.",
+    "category": "nature",
+    "tags": [
+      "beach",
+      "alas purwo",
+      "nature",
+      "camping"
+    ],
+    "lat": -8.723,
+    "lng": 114.364,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.723,114.364&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "32",
+    "name": "Pantai Boom (Boom Marina)",
+    "description": "Kawasan pantai dan marina modern di pusat kota Banyuwangi yang menjadi lokasi ikonik untuk menikmati matahari terbit serta acara budaya.",
+    "category": "place",
+    "tags": [
+      "beach",
+      "marina",
+      "city",
+      "sunset"
+    ],
+    "lat": -8.2056,
+    "lng": 114.3888,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2056,114.3888&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "33",
+    "name": "Pantai Mbedul (Blok Bedul)",
+    "description": "Kawasan ekowisata hutan mangrove terluas di Jawa yang menyajikan pemandangan perairan estuari yang tenang dan asri.",
+    "category": "nature",
+    "tags": [
+      "mangrove",
+      "beach",
+      "nature",
+      "eco tourism"
+    ],
+    "lat": -8.577,
+    "lng": 114.281,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.577,114.281&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "34",
+    "name": "Pantai Mustika",
+    "description": "Pantai di wilayah Pancer yang bersih, tenang, dan berpasir putih, serta dikenal sebagai spot kuliner lobster dan hidangan laut.",
+    "category": "place",
+    "tags": [
+      "beach",
+      "pancer",
+      "nature",
+      "seafood"
+    ],
+    "lat": -8.604,
+    "lng": 114.018,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.604,114.018&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "35",
+    "name": "Muara Mbaduk",
+    "description": "Kawasan bertemunya aliran sungai dan laut dengan padang rumput hijau yang sangat populer sebagai lokasi berkemah alam terbuka.",
+    "category": "nature",
+    "tags": [
+      "camping",
+      "estuary",
+      "beach",
+      "nature"
+    ],
+    "lat": -8.583,
+    "lng": 113.985,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.583,113.985&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "36",
+    "name": "Pantai Wedi Ireng",
+    "description": "Pantai tersembunyi yang unik dengan perpaduan pasir putih dan pasir hitam (ireng) di bawah permukaannya, menawarkan suasana sangat asri.",
+    "category": "nature",
+    "tags": [
+      "beach",
+      "hidden gem",
+      "nature"
+    ],
+    "lat": -8.614,
+    "lng": 114.004,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.614,114.004&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "37",
+    "name": "Gerbang Raung Agro Forestry",
+    "description": "Destinasi ekowisata alam berupa hutan pinus rindang di kawasan Jambewangi, Sempu yang cocok untuk kegiatan berkemah dan piknik.",
+    "category": "nature",
+    "tags": [
+      "ecotourism",
+      "pine forest",
+      "jambewangi",
+      "camping"
+    ],
+    "lat": -8.211,
+    "lng": 114.116,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.211,114.116&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "38",
+    "name": "Edu Wisata Bumi Raung",
+    "description": "Objek wisata edukasi alam yang asri di area Jambewangi, memadukan panorama hijau kaki Gunung Raung dengan aktivitas pengenalan ekosistem.",
+    "category": "nature",
+    "tags": [
+      "edu wisata",
+      "jambewangi",
+      "nature",
+      "family"
+    ],
+    "lat": -8.209,
+    "lng": 114.114,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.209,114.114&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "39",
+    "name": "Pantai Sukomade",
+    "description": "Pantai konservasi di Taman Nasional Meru Betiri yang menjadi habitat dan area penetasan telur bagi berbagai spesies penyu langka.",
+    "category": "nature",
+    "tags": [
+      "turtle",
+      "conservation",
+      "beach",
+      "meru betiri"
+    ],
+    "lat": -8.559,
+    "lng": 113.885,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.559,113.885&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "40",
+    "name": "Air Terjun Legomoro",
+    "description": "Air terjun alami dengan bebatuan berundak yang mempesona, tersembunyi di balik kawasan hutan pinus Glenmore yang sejuk.",
+    "category": "nature",
+    "tags": [
+      "waterfall",
+      "glenmore",
+      "pine forest",
+      "nature"
+    ],
+    "lat": -8.232,
+    "lng": 114.053,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.232,114.053&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "41",
+    "name": "Watu Dodol",
+    "description": "Landmark pesisir ikonik di Banyuwangi utara dengan pemandangan langsung ke Selat Bali, sering menjadi titik awal wisata snorkeling.",
+    "category": "place",
+    "tags": [
+      "beach",
+      "monument",
+      "snorkeling",
+      "north"
+    ],
+    "lat": -8.083,
+    "lng": 114.437,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.083,114.437&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "42",
+    "name": "Savana Beach (Pantai Savana)",
+    "description": "Kawasan pantai unik yang dihiasi dengan hamparan padang rumput (savana) hijau, tempat sempurna untuk bersantai memandangi Selat Bali.",
+    "category": "place",
+    "tags": [
+      "beach",
+      "savana",
+      "nature",
+      "relax"
+    ],
+    "lat": -8.118,
+    "lng": 114.408,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.118,114.408&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "43",
+    "name": "Pulau Menjangan",
+    "description": "Pulau tak berpenghuni dengan perairan sebening kristal dan terumbu karang luar biasa, menjadi spot diving dan snorkeling kelas dunia (via Banyuwangi).",
+    "category": "nature",
+    "tags": [
+      "island",
+      "diving",
+      "snorkeling",
+      "national park"
+    ],
+    "lat": -8.093,
+    "lng": 114.516,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.093,114.516&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "44",
+    "name": "Pulau Mbedil (Pulau Bedil)",
+    "description": "Gugusan pulau karang kecil di selatan Pancer yang eksotis bak sekeping Raja Ampat, menawarkan laguna tenang untuk berenang dan snorkeling.",
+    "category": "nature",
+    "tags": [
+      "island",
+      "snorkeling",
+      "pancer",
+      "hidden gem"
+    ],
+    "lat": -8.625,
+    "lng": 113.985,
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.625,113.985&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   }
 ]
