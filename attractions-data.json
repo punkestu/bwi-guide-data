@@ -344,6 +344,7 @@
     ],
     "lat": -8.43,
     "lng": 114.18,
+    "imageUrl": "https://drive.google.com/thumbnail?id=14lOYYe5EmMTl5b52eKkhkadgKQGqwqkm&sz=w800",
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.43,114.18&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
@@ -479,6 +480,7 @@
     ],
     "lat": -8.2056,
     "lng": 114.3888,
+    "imageUrl": "https://drive.google.com/thumbnail?id=1f7OSn6T6mgGzEu9H5Hg7yIPtZKkbJF26&sz=w800",
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2056,114.3888&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
@@ -538,6 +540,7 @@
     ],
     "lat": -8.614,
     "lng": 114.004,
+    "imageUrl": "https://drive.google.com/thumbnail?id=1EJPGD3jE_a-FVLgJdQlH4Xm5VBkTEueE&sz=w800",
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.614,114.004&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
@@ -598,6 +601,7 @@
     ],
     "lat": -8.232,
     "lng": 114.053,
+    "imageUrl": "https://drive.google.com/thumbnail?id=1m5sjN1da6AW02hiJzI3FM5C9OVjogCIV&sz=w800",
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.232,114.053&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
