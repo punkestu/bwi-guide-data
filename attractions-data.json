@@ -50,7 +50,7 @@
     "id": "4",
     "name": "Gandrung Sewu di Pantai Boom Marina",
     "description": "Festival budaya tahunan yang spektakuler, menampilkan ribuan penari Gandrung di kawasan marina tepi pantai.",
-    "category": "event",
+    "category": "culture",
     "tags": [
       "culture",
       "dance",
@@ -66,7 +66,7 @@
     "id": "5",
     "name": "Banyuwangi Ethno Carnival",
     "description": "Karnaval budaya tahunan yang semarak, memamerkan kekayaan budaya lokal, seni tradisional, dan kostum-kostum megah.",
-    "category": "event",
+    "category": "culture",
     "tags": [
       "carnival",
       "culture",
@@ -127,7 +127,7 @@
     "id": "9",
     "name": "Osing Deles Cafe & Resto",
     "description": "Kafe dan restoran viral yang sangat populer, menyajikan hidangan khas Banyuwangi dalam suasana modern dan estetis untuk tempat berkumpul.",
-    "category": "cafe",
+    "category": "food",
     "tags": [
       "viral",
       "restaurant",
@@ -424,7 +424,7 @@
     "id": "28",
     "name": "Any-O Cafe",
     "description": "Kafe lokal yang menawarkan suasana nyaman untuk berkumpul sambil menikmati sajian kopi dan makanan dengan konsep kekinian.",
-    "category": "cafe",
+    "category": "food",
     "tags": [
       "cafe",
       "hangout",
@@ -440,7 +440,7 @@
     "id": "29",
     "name": "Kopi Saben",
     "description": "Kedai kopi dan rumah makan di kawasan Gambiran yang menyajikan aneka menu kopi dan makanan cepat saji dengan suasana santai.",
-    "category": "cafe",
+    "category": "food",
     "tags": [
       "cafe",
       "coffee",
