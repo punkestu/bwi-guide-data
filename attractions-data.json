@@ -103,8 +103,8 @@
       "culinary",
       "restaurant"
     ],
-    "lat": -8.4116,
-    "lng": 114.2185,
+    "lat": -8.4335209,
+    "lng": 114.2185771,
     "imageUrl": "https://drive.google.com/thumbnail?id=1vlzmm__noFS8JeVPGd02K666dqT86l-P&sz=w800",
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.6752091100334!2d114.21857707512788!3d-8.433520891605934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fe61ffcf615f%3A0x7a35f61bb7cd52f!2sWarung%20Rujak%20Soto%20Mbok%20Mbret!5e0!3m2!1sen!2sid!4v1788250500331!5m2!1sen!2sid\"></iframe>"
   },
@@ -149,10 +149,10 @@
       "alam",
       "magis"
     ],
-    "lat": -8.43,
-    "lng": 114.22,
+    "lat": -8.4313706,
+    "lng": 114.2238283,
     "imageUrl": "https://drive.google.com/thumbnail?id=19j_J-RTgCkdpLfSNDno-ZiKJVvVnxCd9&sz=w800",
-    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.43,114.22&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.4313706,114.2238283&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "11",
@@ -431,8 +431,8 @@
       "coffee",
       "kuliner"
     ],
-    "lat": -8.216,
-    "lng": 114.3645,
+    "lat": -8.2891297,
+    "lng": 113.980577,
     "imageUrl": "https://drive.google.com/thumbnail?id=1NYDcjdLoQ_-XBvhEY227ZdNPwd2DMD54&sz=w800",
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1373225615575!2d113.97828097986667!3d-8.289129670462183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6affea31c1937%3A0x9d917107db4e6276!2sAny-O%20Coffee!5e0!3m2!1sen!2sid!4v1788250176295!5m2!1sen!2sid\"></iframe>"
   },
@@ -447,9 +447,10 @@
       "gambiran",
       "kuliner"
     ],
-    "lat": -8.3889,
-    "lng": 114.1627,
-    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.3889,114.1627&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+    "lat": -8.3899614,
+    "lng": 114.1371171,
+    "imageUrl": "https://drive.google.com/thumbnail?id=1ISfCkffhj0yzhsllo5ltyWzbtxf9j8nE&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.3899614,114.1371171&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
   },
   {
     "id": "30",
