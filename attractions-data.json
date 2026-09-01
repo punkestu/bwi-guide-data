@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Kawah Ijen",
     "description": "Kompleks gunung berapi dengan kawah yang terkenal karena fenomena api biru (blue fire) dari gas belerang yang menyala terang.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "mountain",
       "hiking",
@@ -19,7 +19,7 @@
     "id": "2",
     "name": "Taman Nasional Baluran",
     "description": "Kawasan pelestarian alam yang dijuluki 'Afrika van Java', menampilkan padang savana luas, pegunungan, dan satwa liar yang kaya.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "wildlife",
       "savanna",
@@ -35,7 +35,7 @@
     "id": "3",
     "name": "Pantai Pulau Merah",
     "description": "Pantai berpasir putih yang populer dengan ombak selancar, angin sejuk, dan pemandangan matahari terbenam yang spektakuler.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "beach",
       "surfing",
@@ -142,7 +142,7 @@
     "id": "10",
     "name": "Hutan De Djawatan",
     "description": "Kawasan hutan trembesi yang megah, menawarkan jalur pejalan kaki yang teduh dan suasana magis mirip hutan di film fantasi.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "hutan",
       "fotografi",
@@ -158,7 +158,7 @@
     "id": "11",
     "name": "Pantai Teluk Hijau",
     "description": "Teluk taman nasional dengan pantai perawan berpasir putih yang disapu oleh air laut berwarna hijau jernih, dapat diakses dengan perahu atau melintasi hutan.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "pantai",
       "teluk",
@@ -174,7 +174,7 @@
     "id": "12",
     "name": "Green Island Banyuwangi",
     "description": "Destinasi pulau eksotis di perairan Banyuwangi pesisir selatan yang menawarkan spot snorkeling indah dan panorama laut biru yang memikat hati.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "pulau",
       "snorkeling",
@@ -237,7 +237,7 @@
     "id": "16",
     "name": "Kawah Wurung",
     "description": "Kawasan kaldera vulkanik mati yang kini menjadi perbukitan padang rumput hijau bergelombang, populer untuk aktivitas bersepeda dan motor trail.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "kawah",
       "bukit",
@@ -488,7 +488,7 @@
     "id": "32",
     "name": "Pantai Boom (Boom Marina)",
     "description": "Kawasan pantai dan marina modern di pusat kota Banyuwangi yang menjadi lokasi ikonik untuk menikmati matahari terbit serta acara budaya.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "beach",
       "marina",
@@ -519,7 +519,7 @@
     "id": "34",
     "name": "Pantai Mustika",
     "description": "Pantai di wilayah Pancer yang bersih, tenang, dan berpasir putih, serta dikenal sebagai spot kuliner lobster dan hidangan laut.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "beach",
       "pancer",
@@ -625,7 +625,7 @@
     "id": "41",
     "name": "Watu Dodol",
     "description": "Landmark pesisir ikonik di Banyuwangi utara dengan pemandangan langsung ke Selat Bali, sering menjadi titik awal wisata snorkeling.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "beach",
       "monument",
@@ -640,7 +640,7 @@
     "id": "42",
     "name": "Savana Beach (Pantai Savana)",
     "description": "Kawasan pantai unik yang dihiasi dengan hamparan padang rumput (savana) hijau, tempat sempurna untuk bersantai memandangi Selat Bali.",
-    "category": "place",
+    "category": "nature",
     "tags": [
       "beach",
       "savana",
