@@ -683,5 +683,213 @@
     "lat": -8.625,
     "lng": 113.985,
     "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.625,113.985&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "45",
+    "name": "Pantai Lampon",
+    "description": "Pantai eksotis di pesisir selatan Pesanggaran yang dikelilingi perbukitan karang, muara sungai, dan area latihan maritim, menawarkan pemandangan sunset yang tenang.",
+    "category": "nature",
+    "tags": [
+      "pantai",
+      "sunset",
+      "pesanggaran",
+      "alam"
+    ],
+    "lat": -8.6083,
+    "lng": 114.0475,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-lampon&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.6083,114.0475&t=&z=14&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "46",
+    "name": "Pelabuhan Ujung Muncar",
+    "description": "Pelabuhan ikan tradisional terbesar di Pulau Jawa, terkenal dengan jejeran perahu 'selerek' warna-warni yang khas dan aktivitas lelang ikan tangkapan nelayan.",
+    "category": "culture",
+    "tags": [
+      "pelabuhan",
+      "nelayan",
+      "budaya",
+      "seafood"
+    ],
+    "lat": -8.4431,
+    "lng": 114.3311,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-muncar&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.4431,114.3311&t=&z=14&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "47",
+    "name": "Plengsengan Pantai Boom",
+    "description": "Area nongkrong santai di kawasan Kampung Mandar dekat Pantai Boom, sangat populer di kalangan anak muda untuk menikmati kopi tepi laut saat sore hingga malam hari.",
+    "category": "food",
+    "tags": [
+      "pantai",
+      "hangout",
+      "kopi",
+      "senja"
+    ],
+    "lat": -8.2045,
+    "lng": 114.3852,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-plengsengan&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2045,114.3852&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "48",
+    "name": "Kafe Makmur",
+    "description": "Tempat kuliner bergaya kekinian di pusat kota Banyuwangi yang menyajikan aneka kopi, dimsum, serta hidangan modern dengan nuansa estetik dan nyaman.",
+    "category": "food",
+    "tags": [
+      "cafe",
+      "kuliner",
+      "hangout",
+      "aesthetic"
+    ],
+    "lat": -8.2195,
+    "lng": 114.3688,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-makmur&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2195,114.3688&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "49",
+    "name": "Kalasenja Coffee",
+    "description": "Kafe berkonsep ruang terbuka yang asri dan sejuk, menjadi favorit para kaum urban Banyuwangi untuk bekerja santai, berdiskusi, atau menikmati sore.",
+    "category": "food",
+    "tags": [
+      "cafe",
+      "coffee",
+      "outdoor",
+      "santai"
+    ],
+    "lat": -8.2132,
+    "lng": 114.3581,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-kalasenja&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2132,114.3581&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "50",
+    "name": "Teman Lisan",
+    "description": "Kedai kopi dan ruang kreatif yang hangat, sering menjadi titik temu komunitas lokal sambil menikmati seduhan kopi Nusantara yang otentik.",
+    "category": "food",
+    "tags": [
+      "cafe",
+      "komunitas",
+      "coffee",
+      "lokal"
+    ],
+    "lat": -8.2251,
+    "lng": 114.3644,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-temanlisan&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2251,114.3644&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "51",
+    "name": "Hotel Baru Indah Jajag",
+    "description": "Hotel strategis dan legendaris di pusat perekonomian Jajag, menawarkan fasilitas yang nyaman untuk pelancong yang menjelajahi kawasan Banyuwangi Selatan.",
+    "category": "hotel",
+    "tags": [
+      "hotel",
+      "jajag",
+      "bisnis",
+      "akomodasi"
+    ],
+    "lat": -8.4342,
+    "lng": 114.1815,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-baruindah&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.4342,114.1815&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "52",
+    "name": "Pantai Rajegwesi",
+    "description": "Pantai teluk yang tenang dengan pasir coklat, dikelilingi perbukitan hijau Meru Betiri, berfungsi juga sebagai pelabuhan nelayan tradisional yang asri.",
+    "category": "nature",
+    "tags": [
+      "pantai",
+      "meru betiri",
+      "nelayan",
+      "alam"
+    ],
+    "lat": -8.5634,
+    "lng": 113.9851,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-rajegwesi&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.5634,113.9851&t=&z=14&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "53",
+    "name": "Rowo Bayu",
+    "description": "Telaga alami di area hutan Songgon yang tenang dan magis, menyimpan nilai sejarah kuat sebagai saksi bisu peperangan Kerajaan Blambangan.",
+    "category": "nature",
+    "tags": [
+      "telaga",
+      "sejarah",
+      "songgon",
+      "magis"
+    ],
+    "lat": -8.2188,
+    "lng": 114.1685,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-rowobayu&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.2188,114.1685&t=&z=14&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "54",
+    "name": "Air Terjun Lider",
+    "description": "Air terjun tertinggi di Banyuwangi (sekitar 60 meter) yang tersembunyi di lereng Gunung Raung, menawarkan jalur trekking petualangan menembus hutan primer.",
+    "category": "nature",
+    "tags": [
+      "air terjun",
+      "trekking",
+      "pegunungan",
+      "petualangan"
+    ],
+    "lat": -8.1754,
+    "lng": 114.0752,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-lider&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.1754,114.0752&t=&z=14&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "55",
+    "name": "Sun East Mall",
+    "description": "Pusat perbelanjaan modern terbesar di kawasan Genteng, menyediakan berbagai kebutuhan retail, supermarket, kuliner, dan hiburan keluarga.",
+    "category": "shopping",
+    "tags": [
+      "mall",
+      "belanja",
+      "genteng",
+      "hiburan"
+    ],
+    "lat": -8.3712,
+    "lng": 114.1534,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-suneast&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.3712,114.1534&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "56",
+    "name": "Pantai Grajagan",
+    "description": "Kawasan pantai nelayan sekaligus surga peselancar di sisi barat Taman Nasional Alas Purwo, menawarkan deburan ombak besar dan panorama perbukitan gua Jepang.",
+    "category": "nature",
+    "tags": [
+      "pantai",
+      "surfing",
+      "nelayan",
+      "alas purwo"
+    ],
+    "lat": -8.5913,
+    "lng": 114.2276,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-grajagan&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.5913,114.2276&t=&z=14&ie=UTF8&iwloc=&output=embed\"></iframe>"
+  },
+  {
+    "id": "57",
+    "name": "Pantai Cacalan",
+    "description": "Pantai berpasir hitam di wilayah kota Banyuwangi yang menawarkan area rekreasi keluarga lengkap dengan kano, kuda tunggang, dan pemandangan sunrise Selat Bali.",
+    "category": "nature",
+    "tags": [
+      "pantai",
+      "kota",
+      "keluarga",
+      "sunrise"
+    ],
+    "lat": -8.1812,
+    "lng": 114.3855,
+    "imageUrl": "https://drive.google.com/thumbnail?id=placeholder-cacalan&sz=w800",
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.1812,114.3855&t=&z=15&ie=UTF8&iwloc=&output=embed\"></iframe>"
   }
 ]
