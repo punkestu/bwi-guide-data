@@ -13,7 +13,8 @@
     "lat": -8.0584,
     "lng": 114.242,
     "imageUrl": "https://drive.google.com/thumbnail?id=1BkFc3am6xZFdDGHfoJOslsvvitisUQbr&sz=w800",
-    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.0584,114.242&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>"
+    "mapIframe": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=-8.0584,114.242&t=&z=13&ie=UTF8&iwloc=&output=embed\"></iframe>",
+    "photoSpotUrl": "https://drive.google.com/thumbnail?id=1BkFc3am6xZFdDGHfoJOslsvvitisUQbr&sz=w800"
   },
   {
     "id": "2",
