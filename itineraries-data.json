@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "name": "Paket 3D2N Banyuwangi Selatan & Eksplorasi Alam[cite: 1]",
-    "thumbnail": "https://drive.google.com/thumbnail?id=19j_J-RTgCkdpLfSNDno-ZiKJVvVnxCd9&sz=w800[cite: 1]",
+    "name": "Paket 3D2N Banyuwangi Selatan & Eksplorasi Alam",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19j_J-RTgCkdpLfSNDno-ZiKJVvVnxCd9&sz=w800",
     "itineraries": [
       {
         "place_id": "10",
         "start_time": "2026-10-10T09:00:00+07:00",
         "end_time": "2026-10-10T11:00:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=19j_J-RTgCkdpLfSNDno-ZiKJVvVnxCd9&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=19j_J-RTgCkdpLfSNDno-ZiKJVvVnxCd9&sz=w800"
       },
       {
         "place_id": "11",
         "start_time": "2026-10-10T13:00:00+07:00",
         "end_time": "2026-10-10T16:00:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=14JQwrIBiCLSS5Y2U6d3lGa0Ld4YHuPSU&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=14JQwrIBiCLSS5Y2U6d3lGa0Ld4YHuPSU&sz=w800"
       },
       {
         "place_id": "3",
         "start_time": "2026-10-10T16:30:00+07:00",
         "end_time": "2026-10-10T18:30:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=10rArWx7kG9_p3bTzlysJ8oxk1uIsxDzt&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=10rArWx7kG9_p3bTzlysJ8oxk1uIsxDzt&sz=w800"
       },
       {
         "place_id": "13",
         "start_time": "2026-10-11T08:00:00+07:00",
         "end_time": "2026-10-11T10:00:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=10CTd4SVcRb2GGkR_ppMgFE3UFRI1l6bD&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=10CTd4SVcRb2GGkR_ppMgFE3UFRI1l6bD&sz=w800"
       },
       {
         "place_id": "14",
         "start_time": "2026-10-11T10:30:00+07:00",
         "end_time": "2026-10-11T12:00:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1ZBQDQCiExVHdqfYhyY-2SBR4rFa0hEaE&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=1ZBQDQCiExVHdqfYhyY-2SBR4rFa0hEaE&sz=w800"
       },
       {
         "place_id": "30",
         "start_time": "2026-10-11T13:00:00+07:00",
         "end_time": "2026-10-11T16:00:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1708O_g91WX5fdCGDTWbaBfaoSaXRgiXZ&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=1708O_g91WX5fdCGDTWbaBfaoSaXRgiXZ&sz=w800"
       },
       {
         "place_id": "16",
         "start_time": "2026-10-12T08:00:00+07:00",
         "end_time": "2026-10-12T10:30:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1E_CEeSy1_RSRgtXAAKL7SEXYUSMlio4O&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=1E_CEeSy1_RSRgtXAAKL7SEXYUSMlio4O&sz=w800"
       },
       {
         "place_id": "15",
         "start_time": "2026-10-12T13:00:00+07:00",
         "end_time": "2026-10-12T15:30:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1JVc18k5W2y9lQkXqxVkD9SE-YooXCVh7&sz=w800[cite: 1]"
+        "thumbnail": "https://drive.google.com/thumbnail?id=1JVc18k5W2y9lQkXqxVkD9SE-YooXCVh7&sz=w800"
       }
     ],
     "checklists": {
@@ -66,48 +66,155 @@
   },
   {
     "id": 2,
-    "name": "Paket 2D1N Banyuwangi Utara, Kota & Budaya[cite: 1]",
-    "thumbnail": "https://drive.google.com/thumbnail?id=1BkFc3am6xZFdDGHfoJOslsvvitisUQbr&sz=w800[cite: 1]",
+    "name": "Paket 2D1N Special Trip Taman Nasional Alas Purwo & Mangrove",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10CTd4SVcRb2GGkR_ppMgFE3UFRI1l6bD&sz=w800",
     "itineraries": [
       {
-        "place_id": "8",
-        "start_time": "2026-10-15T09:00:00+07:00",
-        "end_time": "2026-10-15T11:30:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1QTaxazqlhvDJsg41X8WbKVXvY6QvesWk&sz=w800[cite: 1]"
+        "place_id": "13",
+        "start_time": "2026-10-18T08:00:00+07:00",
+        "end_time": "2026-10-18T10:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=10CTd4SVcRb2GGkR_ppMgFE3UFRI1l6bD&sz=w800"
       },
       {
-        "place_id": "6",
-        "start_time": "2026-10-15T12:30:00+07:00",
-        "end_time": "2026-10-15T14:00:00+07:00",
+        "place_id": "14",
+        "start_time": "2026-10-18T10:15:00+07:00",
+        "end_time": "2026-10-18T12:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1ZBQDQCiExVHdqfYhyY-2SBR4rFa0hEaE&sz=w800"
+      },
+      {
+        "place_id": "31",
+        "start_time": "2026-10-18T13:00:00+07:00",
+        "end_time": "2026-10-18T15:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1Q4aWXgov6KNvkUwjycn1oo_P2ww-HyKp&sz=w800"
+      },
+      {
+        "place_id": "30",
+        "start_time": "2026-10-18T15:30:00+07:00",
+        "end_time": "2026-10-18T17:30:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1708O_g91WX5fdCGDTWbaBfaoSaXRgiXZ&sz=w800"
+      },
+      {
+        "place_id": "33",
+        "start_time": "2026-10-19T08:30:00+07:00",
+        "end_time": "2026-10-19T11:30:00+07:00",
+        "thumbnail": null
+      },
+      {
+        "place_id": "7",
+        "start_time": "2026-10-19T12:30:00+07:00",
+        "end_time": "2026-10-19T14:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1vlzmm__noFS8JeVPGd02K666dqT86l-P&sz=w800"
+      }
+    ],
+    "checklists": {
+      "kebutuhan-alas-purwo": [
+        "Sediakan lotion antinyamuk dan serangga untuk penjelajahan hutan purba Alas Purwo[cite: 1].",
+        "Bawa teropong pemantau satwa dan kamera telefoto untuk mengamati banteng serta merak di Sadengan[cite: 1].",
+        "Siapkan perlengkapan berkemah atau baju renang tawar untuk area Pantai Pancur[cite: 1]."
+      ],
+      "ekowisata-mangrove": [
+        "Gunakan pakaian bernapas longgar dan sandal gunung untuk tur perahu di kawasan perairan estuari Pantai Mbedul[cite: 1]."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Paket 3D2N Island Hopping, Snorkeling & Pantai Utara",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lXul9k5ncfT6uOdQ5Am7h4va3B5ArIOG&sz=w800",
+    "itineraries": [
+      {
+        "place_id": "41",
+        "start_time": "2026-10-23T07:30:00+07:00",
+        "end_time": "2026-10-23T09:00:00+07:00",
+        "thumbnail": null
+      },
+      {
+        "place_id": "43",
+        "start_time": "2026-10-23T09:30:00+07:00",
+        "end_time": "2026-10-23T14:30:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1lXul9k5ncfT6uOdQ5Am7h4va3B5ArIOG&sz=w800"
+      },
+      {
+        "place_id": "42",
+        "start_time": "2026-10-23T15:30:00+07:00",
+        "end_time": "2026-10-23T17:30:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=18yYb43Wh_xGHHTOX4adcYsnXZRx0sSD6&sz=w800"
+      },
+      {
+        "place_id": "12",
+        "start_time": "2026-10-24T08:00:00+07:00",
+        "end_time": "2026-10-24T12:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=17mc_eSsa7G0Dk9c6FVzi24_USzple1Px&sz=w800"
+      },
+      {
+        "place_id": "44",
+        "start_time": "2026-10-24T13:00:00+07:00",
+        "end_time": "2026-10-24T16:00:00+07:00",
+        "thumbnail": null
+      },
+      {
+        "place_id": "34",
+        "start_time": "2026-10-24T16:30:00+07:00",
+        "end_time": "2026-10-24T19:00:00+07:00",
         "thumbnail": null
       },
       {
         "place_id": "2",
-        "start_time": "2026-10-15T15:30:00+07:00",
-        "end_time": "2026-10-15T18:00:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1DefeAXIPKqX_63Hv2gTfayWIyZTKsOwW&sz=w800[cite: 1]"
-      },
-      {
-        "place_id": "1",
-        "start_time": "2026-10-16T01:00:00+07:00",
-        "end_time": "2026-10-16T08:00:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1BkFc3am6xZFdDGHfoJOslsvvitisUQbr&sz=w800[cite: 1]"
-      },
-      {
-        "place_id": "32",
-        "start_time": "2026-10-16T15:00:00+07:00",
-        "end_time": "2026-10-16T17:30:00+07:00",
-        "thumbnail": "https://drive.google.com/thumbnail?id=1f7OSn6T6mgGzEu9H5Hg7yIPtZKkbJF26&sz=w800[cite: 1]"
+        "start_time": "2026-10-25T08:00:00+07:00",
+        "end_time": "2026-10-25T12:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1DefeAXIPKqX_63Hv2gTfayWIyZTKsOwW&sz=w800"
       }
     ],
     "checklists": {
-      "pendakian-kawah": [
-        "Sewa atau bawa masker gas khusus untuk melindungi pernapasan dari asap belerang saat melihat fenomena api biru (blue fire) di Kawah Ijen[cite: 1].",
-        "Gunakan jaket tebal dan sepatu trekking yang memadai untuk jalur pendakian gunung berapi[cite: 1]."
+      "snorkeling-dan-bahari": [
+        "Gunakan pakaian renang, rashguard, serta dry bag perlindungan gadget untuk tur pulau dan snorkeling[cite: 1].",
+        "Bawa sunscreen ramah terumbu karang (reef-safe) untuk penggunaan di Pulau Menjangan dan Green Island[cite: 1]."
       ],
-      "wisata-budaya-kuliner": [
-        "Bawa uang tunai untuk membeli kopi khas masyarakat adat Osing di Desa Adat Osing Kemiren[cite: 1].",
-        "Siapkan toleransi pedas untuk menikmati sajian Sego Tempong Mbok Wah yang disajikan dengan sambal khas yang sangat pedas[cite: 1]."
+      "kuliner-pesisir": [
+        "Siapkan selera makan untuk menikmati hidangan laut khas lobster di Pantai Mustika[cite: 1]."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Paket 2D1N Ekowisata Pegunungan & Lereng Raung",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1m5sjN1da6AW02hiJzI3FM5C9OVjogCIV&sz=w800",
+    "itineraries": [
+      {
+        "place_id": "37",
+        "start_time": "2026-10-28T08:30:00+07:00",
+        "end_time": "2026-10-28T11:00:00+07:00",
+        "thumbnail": null
+      },
+      {
+        "place_id": "38",
+        "start_time": "2026-10-28T11:15:00+07:00",
+        "end_time": "2026-10-28T13:30:00+07:00",
+        "thumbnail": null
+      },
+      {
+        "place_id": "29",
+        "start_time": "2026-10-28T14:00:00+07:00",
+        "end_time": "2026-10-28T16:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1ISfCkffhj0yzhsllo5ltyWzbtxf9j8nE&sz=w800"
+      },
+      {
+        "place_id": "40",
+        "start_time": "2026-10-29T08:00:00+07:00",
+        "end_time": "2026-10-29T11:30:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1m5sjN1da6AW02hiJzI3FM5C9OVjogCIV&sz=w800"
+      },
+      {
+        "place_id": "28",
+        "start_time": "2026-10-29T13:00:00+07:00",
+        "end_time": "2026-10-29T15:00:00+07:00",
+        "thumbnail": "https://drive.google.com/thumbnail?id=1NYDcjdLoQ_-XBvhEY227ZdNPwd2DMD54&sz=w800"
+      }
+    ],
+    "checklists": {
+      "pakaian-dan-alas-kaki": [
+        "Gunakan sepatu luar ruangan bertapak anti-selip untuk trekking menuju Air Terjun Legomoro[cite: 1].",
+        "Bawa jaket ringan atau cardigan karena udara kawasan hutan pinus Jambewangi cukup dingin[cite: 1]."
       ]
     }
   }
